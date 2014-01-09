@@ -5,3 +5,7 @@ int main (int argc, char *argv[]) {
 	printf ("Hello world\n");
 	return (0);
 }
+
+# few comments added
+# Author: Mahesh S
+
